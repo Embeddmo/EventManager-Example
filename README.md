@@ -1,4 +1,4 @@
-# Embeddmo Event Manager – Example application
+# Embeddmo Event Manager – example application
 
 ## Overview
 
